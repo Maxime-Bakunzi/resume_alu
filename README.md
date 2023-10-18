@@ -2,6 +2,8 @@
 
 This is a simple resume webpage for me, a Software Engineer. It provides an overview of my education, skills, experience, and interests. You can also download my resume in PDF format.
 
+Go to website [RESUME](https://maxime-bakunzi.github.io/resume_alu/)
+
 ## Table of Contents
 - [HTML](#html)
 - [CSS](#css)
